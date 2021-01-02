@@ -1,5 +1,6 @@
-//a very legitimate and well tested function for shifting out data
+//A very legitimate and well tested function for shifting out data
 
+''' Code derived from assignment document, reviewed and edited according to instructions.'''
 int shiftOut(unsigned char myDataOut) 
 	{
 	int pinState;
